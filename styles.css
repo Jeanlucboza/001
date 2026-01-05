@@ -115,4 +115,9 @@ p{
         margin: 0 auto;
         display: block;
     }
+    @media screen (max-widht:320px) {
+        .container-left{
+            height:70px;
+        }
+    }
 }
